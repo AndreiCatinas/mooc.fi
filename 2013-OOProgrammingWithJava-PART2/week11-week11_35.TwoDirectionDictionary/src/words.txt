@@ -1,0 +1,5 @@
+ohjelmointi:programming
+banaani:banana
+mamaruta:ruta
+tietokone:computer
+apina:apfe
